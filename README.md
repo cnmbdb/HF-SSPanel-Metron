@@ -1,6 +1,6 @@
-## SSPanel-Metron主题，目前由@BobS9维护开发中。
+## SSPanel-Metron主题，目前在维护开发中。
 
-交流群：[https://t.me/BobShareGroup](https://t.me/BobShareGroup)
+交流群：[https://t.me/wdnmdjb](https://t.me/wdnmdjb
 
 #### 1.连接 SSH 安装宝塔面板
 
